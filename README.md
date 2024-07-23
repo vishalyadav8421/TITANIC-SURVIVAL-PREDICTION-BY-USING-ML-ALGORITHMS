@@ -24,5 +24,5 @@ The main objective of this project is to develop a predictive model that can acc
 
 6. *Hyperparameter Tuning*: Fine-tune the hyperparameters of the selected model(s) using techniques like grid search or random search to optimize performance.
 
-7. *Model Interpretation*: Interpret the trained model to understand the importance of different features in predicting survival outcomes.
+7. *Model Interpretation*: Interpret the trained model to understand the importance of different features in predicting survival outcomes..
 
